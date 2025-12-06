@@ -7,7 +7,7 @@
 ## 🚀 Tech Stack  
 
 ### **Frontend**  
-- **HTML5, CSS3, Bootstrap** – Responsive, mobile-first designs  
+- **HTML5, CSS3, Bootstrap, Tailwind** – Responsive, mobile-first designs  
 - **JavaScript (ES6+), TypeScript** – Robust and type-safe applications  
 - **React.js** – Component-based UI development  
 - **Next.js** – Server-side rendering, static site generation  
